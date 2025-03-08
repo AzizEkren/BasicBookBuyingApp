@@ -13,4 +13,4 @@ This project is a simple book purchasing application designed to practice and ap
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/BasicBookApplication.git
+   git clone https://github.com/AzizEkren/BasicBookBuyingApp
